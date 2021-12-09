@@ -1,4 +1,4 @@
-# Custome Range Slider
+# Custom Range Slider
 Project #44 in Brad Traversy's 50 Projects in 50 Days. In this project, I build a customized range slider and in the JS, the label shows the value from 0 - 100. It calculates the left value to move it along with the thumb.
 
 ![Custome Range Slider](screenshot.jpg)
